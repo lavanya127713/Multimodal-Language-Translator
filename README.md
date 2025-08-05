@@ -1,7 +1,8 @@
 
 # 🌐 SpeakBridge - Language Translation Platform
 
-![SpeakBridge](SpeakBridgeImage.jpeg)
+![SpeakBridge](![SpeakBridgeImage](https://github.com/user-attachments/assets/a54a37c1-7a16-4528-9bf8-5581246bf9f7)
+)
 
 ## 🧠 About the Project
 
@@ -45,14 +46,7 @@ SpeakBridge/
 
 ---
 
-## 📸 Screenshots
 
-> ![Screenshot](SpeakBridgeImage.jpeg)
-
-Home page featuring avatars and greetings in multiple languages:
-**Bonjour**, **Salut**, **Ciao**, **你好**, **Habari** – representing the global reach of the app.
-
----
 
 ## 📌 How to Use
 
