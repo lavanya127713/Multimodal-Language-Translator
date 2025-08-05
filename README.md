@@ -1,8 +1,6 @@
 
 # 🌐 SpeakBridge - Language Translation Platform
 
-![SpeakBridge](![SpeakBridgeImage](https://github.com/user-attachments/assets/a54a37c1-7a16-4528-9bf8-5581246bf9f7)
-)
 
 ## 🧠 About the Project
 
