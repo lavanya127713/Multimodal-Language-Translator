@@ -44,7 +44,7 @@ SpeakBridge/
 
 ---
 🔗 Demo
-Live Demo: https://speakbridge-app.netlify.app/#
+Live Demo: https://speakbridge-language-translator.netlify.app/
 
 
 
