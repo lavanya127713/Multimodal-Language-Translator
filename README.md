@@ -43,7 +43,8 @@ SpeakBridge/
 ```
 
 ---
-
+🔗 Demo
+Live Demo: https://speakbridge-app.netlify.app/#
 
 
 ## 📌 How to Use
